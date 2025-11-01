@@ -1,1 +1,1 @@
-# Cohort implementation. More details will be updated later.
+# Cohort implementation. More details will be provided after paper acceptance.
